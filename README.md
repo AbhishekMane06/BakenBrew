@@ -2,20 +2,6 @@
 
 <p align="center">
   <a href="https://bakenbrew.netlify.app">
-    <img src="images/banner.png" alt="Bake&Brew Banner" />
-  </a>
-</p>
-
-<p align="center">
-  <em>Elegant, delicious, and handcrafted – a modern UI website for your favorite bakery experience.</em>
-</p>
-
-<hr>
-
-<h1 align="center">🍰 Bake&Brew — Modern Bakery Website ☕</h1>
-
-<p align="center">
-  <a href="https://bakenbrew.netlify.app">
     <img src="images/banner.png" width="80%" alt="Bake&Brew Banner">
   </a>
 </p>
@@ -33,7 +19,6 @@
 - 🍞 Beautifully responsive UI
 - 🧁 Product showcase with images (cakes, muffins, cookies, etc.)
 - 🎂 Hover effects and transitions
-- 🛒 Store & food delivery logos (Swiggy, Zomato)
 - 🔄 Loading animation
 - 📱 Mobile-friendly layout
 
@@ -44,14 +29,6 @@
 - **HTML5** – Structure
 - **CSS3** – Styling & Layout
 - **JavaScript** – Interactivity
-
----
-
-## 🖼️ Screenshots
-
-| Home Page | Product Section | Delivery Integration |
-|-----------|------------------|------------------------|
-| ![](images/banner.png) | ![](images/cake.png) | ![](images/swiggy.png) |
 
 ---
 
