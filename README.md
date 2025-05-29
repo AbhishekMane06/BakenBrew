@@ -1,7 +1,7 @@
 <h1 align="center">🍰 Bake&Brew — Modern Bakery Website ☕</h1>
 
 <p align="center">
-  <a href="https://bakenbrew.netlify.app">
+  <a href="https://baken-brew.vercel.app/">
     <img src="images/banner.png" width="80%" alt="Bake&Brew Banner">
   </a>
 </p>
@@ -10,7 +10,7 @@
 
 ## 🚀 Live Demo
 
-🌐 [Click here to explore the website](https://bakenbrew.netlify.app)
+🌐 [BakenBrew](https://baken-brew.vercel.app/)
 
 ---
 
