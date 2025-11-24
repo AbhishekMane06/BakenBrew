@@ -37,14 +37,14 @@
 ---
 
 ## 🗂️ Folder Structure
-
+<pre>
 BAKE&BREW/
 ├── images/ # All image assets
 ├── index.html # Main HTML file
 ├── style.css # Stylesheet
 ├── script.js # JavaScript logic
 └── README.md # Project overview
-
+</pre>
 
 ---
 
